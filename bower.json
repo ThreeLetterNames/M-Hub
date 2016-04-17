@@ -1,0 +1,25 @@
+{
+  "name": "m-hub",
+  "description": "M-Hub helps smooth the pathways to re-settlement",
+  "main": "server.js",
+  "authors": [
+    "M-Hub Team"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "Techfugees"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.4",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.3",
+    "angular-bootstrap": "^1.3.2"
+  },
+  "install": {
+    "path": "client/libs"
+  },
+  "resolutions": {
+    "angular": "^1.5.4"
+  }
+}
